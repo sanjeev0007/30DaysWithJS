@@ -1,4 +1,6 @@
 # 30DaysWithJS
 
+Learn JavaScript by building things!
 
-source:-https://javascript30.com/
+
+Source:-https://javascript30.com/
